@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+e_Doc_section {
+  width: 100vw;
+  height: 100vh;
+  padding-left: 25px;
+  padding-right: 25px;
+  page-break-after: always;
+}
+.Body_Copy {
+  font: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+  font-size: 11pt;
+  font-style: normal;
+}
+.Sub_Header {
+  font: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+  font-size: 16pt;
+  font-display: block;
+}
+.Segment_Header {
+  font: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+  font-size: 14pt;
+  font-display: block;
+}
+.Footer_Disclosure {
+  font: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+  font-size: 11pt;
+  font-display: block;
+}
+.Col_1 {
+  font: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+  font-size: 11pt;
+  font-display: block;
+  text-align: left;
+  padding-left: 10px;
+  border: 1px solid black;
+}
+.Signature_Block {
+  border: none;
+}
+.Name_Block {
+  border-top: 1px solid #000000;
+  height: 18px;
+}
+.Details_Block {
+  width: 100%;
+  text-align: left;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
